@@ -6,7 +6,7 @@ Date: 2025-11-05
 #####....Description.....###:
     This script generates random DNA sequences in FASTA format.
     Usage:
-        python fasta_generator.py <num_sequences> <seq_length> <output_file>
+        python sequence_generator.py <num_sequences> <seq_length> <output_file>
 """
 
 import sys
